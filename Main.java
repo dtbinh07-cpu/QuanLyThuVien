@@ -7,5 +7,6 @@ public class Main {
         String hoTen = sc.nextLine();
         System.out.println("Ho ten cua ban la: " + hoTen);
         sc.close();
+           System.out.println("Xin chao " + hoTen);
     }
 }
